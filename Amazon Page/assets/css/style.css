@@ -69,10 +69,7 @@ main {
 article {
   display: inline;
 }
-img {
-  width: 800px;
-  height: 450px;
-}
+
 footer {
   background-color: #222f3f;
   width: 100%;
