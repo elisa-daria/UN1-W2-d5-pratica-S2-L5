@@ -69,7 +69,12 @@ main {
 article {
   display: inline;
 }
-
+span {
+  font-family: sans-serif;
+  font-size: small;
+  font-weight: bold;
+  color: #266e7f;
+}
 footer {
   background-color: #222f3f;
   width: 100%;
